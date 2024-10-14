@@ -46,6 +46,5 @@ The Cyclone XML site contains some basic examples of CXML data. Additional
 ## Contact information
 
 Author: Craig Arthur
-Email: craig.arthur@ga.gov.au
-
-Last updated: 2021-11-09
+Contact: hazards@ga.gov.au
+Last updated: 2024-10-14
